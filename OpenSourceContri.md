@@ -42,8 +42,7 @@ Click the **Fork** button (top-right).
 ### 2️⃣ Clone Your Fork
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
+git clone https://github.com/cpthukral/DevOpsPractice.git
 ```
 
 ---
@@ -60,7 +59,7 @@ git checkout -b your-name-contribution
 
 You can:
 
-* Add your profile
+* Add your Profile ( Name, Enroll, etc)
 ---
 
 ### 5️⃣ Commit Changes
